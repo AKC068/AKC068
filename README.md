@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akc068&label=Visitors&color=1f99e5&style=flat" alt="akc068" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akc068" alt="akc068" /></a> </p>
-
 - 🔭 I’m currently working on [Live_Location_Tracking_Project](https://github.com/AKC068/Live_Location_Tracking_Project)
 
 - 🌱 I’m currently learning **NodeJS, Express, MongoDB, PHP, MySQL**
