@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Ayush Kumar Chaudhary</h1>
 <h3 align="center">A passionate frontend developer and an Open-Source Enthusiastic from India</h3>
 
-- 🔭 I’m currently working on [Live_Location_Tracking_Project](https://github.com/AKC068/Live_Location_Tracking_Project)
+- 🔭 I’m currently working on [NITBlog](https://github.com/AKC068/nitBlog)
 
 - 🌱 I’m currently learning **eJS, NodeJS, Express, MongoDB, MySQL**
 
