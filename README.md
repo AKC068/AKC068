@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, This is Ayush Kumar Chaudhary</h1>
 <h3 align="center">A passionate frontend developer and an Open-Source Enthusiastic from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akc068&label=Visitors&color=1f99e5&style=flat" alt="akc068" /> </p>
-
 - 🔭 I’m currently working on [Live_Location_Tracking_Project](https://github.com/AKC068/Live_Location_Tracking_Project)
 
-- 🌱 I’m currently learning **NodeJS, Express, MongoDB, PHP, MySQL**
+- 🌱 I’m currently learning **eJS, NodeJS, Express, MongoDB, MySQL**
 
 - 📫 Reach me by **ayushkumac040@gmail.com**
 
