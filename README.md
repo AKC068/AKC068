@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NITBlog](https://github.com/AKC068/nitBlog)
 
-- 🌱 I’m currently learning **eJS, NodeJS, Express, MongoDB, MySQL**
+- 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB, SQL**
 
 - 📫 Reach me by **ayushkumac040@gmail.com**
 
